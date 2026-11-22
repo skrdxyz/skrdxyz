@@ -1,7 +1,7 @@
-### Hi, I'm skrdxzy
+### Hi, I'm skrdxyz
 
 Software development student with a strong interest in cybersecurity.
-Currently learning offensive and defensive security on [TryHackMe](https://tryhackme.com/p/skrdxzy).
+Currently learning offensive and defensive security on [TryHackMe](https://tryhackme.com/p/skrdxyz).
 
 - **Goal:** Senior Cloud Security Engineer
 - **Now:** Working through the TryHackMe Jr Penetration Tester path
@@ -17,10 +17,10 @@ Currently learning offensive and defensive security on [TryHackMe](https://tryha
 
 #### Security
 
-<a href="https://tryhackme.com/p/skrdxzy"><img src="tryhackme.svg" alt="TryHackMe stats" /></a>
+<a href="https://tryhackme.com/p/skrdxyz"><img src="tryhackme.svg" alt="TryHackMe stats" /></a>
 
 ---
 
 #### Off the clock
 
-<a href="https://steamcommunity.com/id/skrdxzy/"><img src="games.svg" alt="Hours played" /></a>
+<a href="https://steamcommunity.com/id/skrdxyz/"><img src="games.svg" alt="Hours played" /></a>
